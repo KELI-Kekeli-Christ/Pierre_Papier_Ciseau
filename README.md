@@ -1,4 +1,13 @@
-# Rock Paper Scissors
+<p align="center">
+  <a href="README.md"><b>English</b></a>
+  &nbsp;·&nbsp;
+  <a href="README.fr.md">Français</a>
+  &nbsp;·&nbsp;
+  <a href="README.es.md">Español</a>
+</p>
 
-This is the boilerplate for the Rock Paper Scissors project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/machine-learning-with-python/machine-learning-with-python-projects/rock-paper-scissors
-# Pierre_Papier_Ciseau
+Rock-paper-scissors player for the freeCodeCamp machine-learning project. `main.py` plays `RPS.player` against Quincy, Abbey, Kris, and Mrugesh for 1000 rounds each.
+
+```bash
+python main.py
+```
